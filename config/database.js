@@ -1,5 +1,5 @@
 
 module.exports = {
   'secret': 'sdfdsfewgtthytjuyjfgh',
-  'database': 'mongodb://localhost/node-rest-auth'
+  'database': 'mongodb://localhost/social-posts'
 };
